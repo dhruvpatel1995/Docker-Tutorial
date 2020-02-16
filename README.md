@@ -10,18 +10,18 @@ created repository watching video posted on Canvas
   
 - version check
 
- '''
+ ```
   docker --version
- '''
+ ```
 
 - hello-world
 
- '''
+ ```
   docker run hello-world  
- '''
+ ```
 
 - Run docker image 
 
- '''
+ ```
   docker container ls --all
- '''
+ ```
